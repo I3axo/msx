@@ -3,7 +3,7 @@
   "menu": [
     {
       "label": "Filmix",
-      "action": "msx://msx.filmix.tv"
+      "action": "content:https://filmix.tv/msx/start.json"
     },
     {
       "label": "KinoPub",
