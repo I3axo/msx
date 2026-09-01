@@ -4,11 +4,13 @@
   "headline": "Выберите сервис",
   "menu": [
     {
+      "type": "default",
       "title": "Filmix",
       "action": "link",
       "data": "msx://msx.filmix.tv"
     },
     {
+      "type": "default",
       "title": "KinoPub",
       "action": "link",
       "data": "msx://msx.cdnservices.link"
