@@ -1,17 +1,13 @@
 {
-  "name": "Мой портал MSX",
-  "version": "1.0.0",
-  "headline": "Выберите сервис",
+  "headline": "Мой портал MSX",
   "menu": [
     {
-      "type": "default",
-      "title": "Filmix",
+      "label": "Filmix",
       "action": "link",
       "data": "msx://msx.filmix.tv"
     },
     {
-      "type": "default",
-      "title": "KinoPub",
+      "label": "KinoPub",
       "action": "link",
       "data": "msx://msx.cdnservices.link"
     }
