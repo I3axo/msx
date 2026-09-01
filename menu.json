@@ -3,11 +3,11 @@
   "menu": [
     {
       "label": "Filmix",
-      "action": "menu:msx://msx.filmix.tv"
+      "action": "msx://msx.filmix.tv"
     },
     {
       "label": "KinoPub",
-      "action": "menu:msx://msx.cdnservices.link"
+      "action": "msx://msx.cdnservices.link"
     }
   ]
 }
