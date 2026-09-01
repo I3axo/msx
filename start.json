@@ -1,5 +1,5 @@
 {
   "name": "Мой портал MSX",
   "version": "1.0.0",
-  "parameter": "menu:request:https://i3axo.github.io/msx/menu.json"
+  "parameter": "menu:https://i3axo.github.io/msx/menu.json"
 }
