@@ -1,16 +1,5 @@
 {
-  "version": 1,
-  "title": "Мой портал MSX",
-  "items": [
-    {
-      "title": "Filmix",
-      "type": "link",
-      "link": "msx://msx.filmix.tv"
-    },
-    {
-      "title": "KinoPub",
-      "type": "link",
-      "link": "msx://msx.cdnservices.link"
-    }
-  ]
+  "name": "Мой портал MSX",
+  "version": "1.0.0",
+  "parameter": "menu:request:https://i3axo.github.io/msx/menu.json"
 }
