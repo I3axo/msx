@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "title": "Мой портал MSX",
+  "items": [
+    {
+      "title": "Filmix",
+      "type": "link",
+      "link": "msx://msx.filmix.tv"
+    },
+    {
+      "title": "KinoPub",
+      "type": "link",
+      "link": "msx://msx.cdnservices.link"
+    }
+  ]
+}
